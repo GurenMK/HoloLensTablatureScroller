@@ -1,0 +1,2 @@
+C:\Users\aurba\Documents\Guitar App\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\aurba\Documents\Guitar App\App\Guitar App\Guitar App.csproj;x86
